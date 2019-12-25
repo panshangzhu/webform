@@ -1,0 +1,73 @@
+﻿body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+}
+#allPage{
+	width:980px;
+	margin-left:auto;
+	margin-right:auto;
+}
+header img{
+	float:left;
+	opacity:0.8;
+	padding-right:15px;
+	padding-bottom:5px;
+	
+}
+#title{
+	padding-top:10px;
+	text-align:center;
+
+}
+table {
+	background-color: #C1D5D7;
+	border-radius:10px;
+}
+td{
+	height:40px;
+}
+.left-col {
+	padding: 0px;
+	margin: 0px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	background-color:white;
+	background-image: url('image/left-side.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	box-sizing:border-box;
+	box-shadow: 0 0 15px 15px rgba(255, 255, 255, 0.7) inset;
+}
+.subtitle{
+	height:20px;
+	font-size: 1.1em;
+	text-align: center;
+	background-image:linear-gradient(to right,rgb(162, 200, 204),
+	 #C1D5D7);
+	 border-radius: 10px;
+}
+footer{
+	background-color:aliceblue;
+	font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", "Geneva", "Verdana", "sans-serif";
+	font-size:10px;
+	border-radius:10px;
+}
+footer .feedback{
+	text-align:center;
+	font-size:16px;
+}
+.web{
+	
+	text-align:center;
+}
+.email{
+	
+	text-align:center;
+}
+footer a{
+	text-decoration:none;
+}
